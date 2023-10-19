@@ -1,16 +1,31 @@
-# weather_app
+# Social App (Real Time chat and Post) 
 
-A new Flutter project.
+## A) Video That descibtion  App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/MohamedHussien991999/weather_app/assets/93053169/5d3e86b1-e6cf-42b1-98da-c505dcd03389
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+##   B) Tools 
+
+  1) Dio For Http Requests
+
+  2) Flutter Bloc
+
+
+
+  
+
+
+## C) Features
+
+• HomeView -> ( NoWeatherBody ||  WeatherInfoBody )
+
+• SearchView 
