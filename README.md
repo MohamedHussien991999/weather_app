@@ -17,7 +17,7 @@ https://github.com/MohamedHussien991999/weather_app/assets/93053169/5d3e86b1-e6c
 
   1) Dio For Http Requests
 
-  2) Flutter Bloc
+  2) Bloc(cubit)
 
 
 
@@ -26,6 +26,6 @@ https://github.com/MohamedHussien991999/weather_app/assets/93053169/5d3e86b1-e6c
 
 ## C) Features
 
-• HomeView -> ( NoWeatherBody ||  WeatherInfoBody )
+• Home View -> ( NoWeatherBody ||  WeatherInfoBody )
 
-• SearchView 
+• Search View 
